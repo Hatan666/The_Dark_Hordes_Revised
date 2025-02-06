@@ -20,9 +20,15 @@ However, the cavalry that arrived as reinforcements clashed not with the orcs bu
 
 However, the ship carrying Gwiti and Nati was struck by an unexpected storm and collapsed, separating the brothers and sending them ashore to separate lands.
 
-### Episode I
+### Main Stories
+*See [Scenarios](#Scenarios) for now.*
 
-<Insert details here>
+### Stories After Campaign
+Gwiti is forced to escape east from Wesnoth due to the betrayal by **Tanar** and the interference of the Northern Alliance. He reaches Estmark and escapes for several months, while hiding from the military patrols.
+
+Eventually, Gwiti is confronted again by Elynia, whom he had previously defeated. This time **Aretu** is at her side, and Elynia overthrows Gwiti with the Power of Light. With this, she is crowned the Lady of Light for the first time.
+
+But just before his destruction, Gwiti pronounces the ultimate curse upon her: Elynia shall remain alive until all beings have fallen to their doom.
 
 ## Scenarios
 Here is an overview and development status of each of the scenarios that will unfold in this campaign. Please make additional modifications as necessary.
@@ -70,6 +76,12 @@ Here is an overview and development status of each of the scenarios that will un
 <Insert details here>
 
 ### 08: Confrontation
+* Map Status: **Uncreated**
+* Scenario Status: **0/10 Done**
+
+<Insert details here>
+
+### TEMP: MORE HERE...
 * Map Status: **Uncreated**
 * Scenario Status: **0/10 Done**
 
